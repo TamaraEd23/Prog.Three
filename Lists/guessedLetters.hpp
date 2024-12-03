@@ -9,10 +9,6 @@
 
 #include <stdio.h>
 
-//#endif /* guessedLetters_hpp */
-//#ifndef GUESSEDLETTERS_H
-//#define GUESSEDLETTERS_H
-
 #include <vector>
 #include <string>
 
