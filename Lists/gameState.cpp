@@ -5,7 +5,6 @@
 //
 
 #include "gameState.hpp"
-// #include "gameState.h"
 
 GameState::GameState() : nextState(0) {
     state = { "PLATFORM", "HEAD", "BODY", "LEFT_ARM", "RIGHT_ARM", "LEFT_LEG", "RIGHT_LEG" };
