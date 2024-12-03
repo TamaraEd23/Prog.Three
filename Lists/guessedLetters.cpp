@@ -5,7 +5,6 @@
 //
 
 #include "guessedLetters.hpp"
-// #include "guessedLetters.h"
 
 GuessedLetters::GuessedLetters() {}
 
